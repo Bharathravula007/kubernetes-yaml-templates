@@ -1,0 +1,9 @@
+
+C:\Users\dell\Downloads>set wdir=C:\Users\dell\Downloads 
+
+C:\Users\dell\Downloads>set PRO_HOME=C:\Users\dell\AppData\Local\Temp\{77E14~1\{A2C62~1 
+
+C:\Users\dell\Downloads>cd /D C:\Users\dell\AppData\Local\Temp\{77E14~1\{A2C62~1 
+
+C:\Users\dell\AppData\Local\Temp\{77E14~1\{A2C62~1>call ManageEngine_Launcher.exe 
+The batch file cannot be found.
